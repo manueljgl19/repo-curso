@@ -1,4 +1,4 @@
-# repo-curso
+# repositorio uno en el curso de git 
 primer repositorio creado en github 
 
 ## Descripción 
